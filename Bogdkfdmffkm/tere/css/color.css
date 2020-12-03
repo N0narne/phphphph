@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 75%;
+    Height: 100vh;
+    margin: 0 auto;
+}
+
+.main-box {
+    width: 100%;
+    Height: 50vh;
+    border:1px solid black ;
+}
+
+.btn {
+    display:block;
+    background-color: #fff ;
+    color:black ;
+    padding: 2rem;
+    margin: 1rem auto;
+}
